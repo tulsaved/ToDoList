@@ -1,0 +1,18 @@
+.content{
+    border-radius: 25px;
+    border: 2px solid;
+    text-align: center;
+    padding-bottom: 30px;
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+input[type=text]{
+    background-color: aqua;
+}
+
+input{
+    font-family: 'Courier New', Courier, monospace;
+}
